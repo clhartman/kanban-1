@@ -1,0 +1,179 @@
+
+body{
+  background-color: #0079bf;
+  color: #fff;
+  padding-top: 40px;
+}
+p,h1,h2,h3,h4,h5,h6,span,ul,li,div,a,a:hover{
+  color: #fff;
+}
+
+
+.custom-error[data-v-49c58c80]{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 10px;
+  background: red;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.list-inline li[data-v-4bce83a6]{
+  display: inline-block;
+  margin: 0 3px;
+}
+i[data-v-4bce83a6]{
+  color: white;
+}
+.logo[data-v-4bce83a6]{
+  color: white;
+  font-size: 40px;
+}
+h2[data-v-4bce83a6]{
+  margin-top: 100px;
+  color: white;
+  font-weight: 900;
+  text-align: left;
+}
+h5[data-v-4bce83a6]{
+  margin-top: 20px;
+  color: white;
+  text-align: left;
+}
+p[data-v-4bce83a6]{
+  text-align: left;
+  color: white;
+}
+button[data-v-4bce83a6]{
+  margin-left: 0
+}
+img[data-v-4bce83a6]{
+  margin-top: -70px;
+}
+
+.form-group[data-v-60b1dd3e] {
+  width: 50%;
+}
+
+.input-group[data-v-fd9f004a] {
+  width: 50%;
+}
+
+/*# sourceMappingURL=app.b14b56c6273d1acc6126f7df03a20916.css.map*/
